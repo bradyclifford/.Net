@@ -1,2 +1,3 @@
 # .Net
-.Net Notes
+
+> See Wiki for notes
